@@ -6,6 +6,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22><text y=%2214%22 font-size=%2216%22>👨‍💻</text></svg>">
 <title>Node Infrastructure | Sasha Zimin</title>
 <style>
   body {
@@ -22,7 +23,7 @@
     position: relative;
     overflow: hidden;
   }
-  /* Video Background */
+
   #bg-video {
     position: fixed;
     top: 0; left: 0;
@@ -30,7 +31,7 @@
     height: 100vh;
     object-fit: cover;
     z-index: 0;
-    pointer-events: none; /* щоб не заважало клікам */
+    pointer-events: none;
     filter: brightness(0.3) contrast(1.2);
   }
 .node {
@@ -77,7 +78,6 @@
 </head>
 <body>
 
-  <!-- Відео фон -->
   <video id="bg-video" autoplay muted loop playsinline>
     <source src="/video/video2.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -93,7 +93,7 @@
   <div class="node" id="node2">
     <h2>💪 Titan Node</h2>
     <p>Role: Heavy workloads, Wake on LAN, cold backup</p>
-    <p>OS: Windows 10 Pro<br>CPU: Ryzen 9 16(32)core (5GHz)<br>GPU: Nvidia GTX 1070 8Gb</p>
+    <p>OS: Windows 10 Pro<br>CPU: Ryzen 9 16(32)core (5GHz)<br>GPU: Nvidia GTX 1070 TI 8Gb</p>
     <p>RAM: 64GB DDR4 (3200MHz)<br>Storage: NVMe 512GB\3TB RAID-1</p>
     <p class="codename PREDATOR">Code Name: PREDATOR</p>
   </div>
