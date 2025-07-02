@@ -22,7 +22,7 @@
     position: relative;
     overflow: hidden;
   }
-  /* Відео фон */
+  /* Video Background */
   #bg-video {
     position: fixed;
     top: 0; left: 0;
