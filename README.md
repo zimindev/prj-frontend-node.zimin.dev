@@ -1,6 +1,6 @@
 # prj-frontend-node.zimin.dev
 
-![image](https://github.com/user-attachments/assets/83100597-b4e4-4140-be8c-1545f7973e48)
+![alt text](image.png)
 
 ```html
 <!DOCTYPE html>
@@ -150,6 +150,7 @@
 
   <div class="node" id="node1">
     <h2>🚀 Nexus Node</h2>
+    <p>⭐ Cloud & RDP\VPS Server</p>
     <p>Role: Sync all nodes, UPS protect, 24/7 uptime</p>
     <p>OS: Windows 11 Pro<br>CPU: i3 8core (3.6GHz)<br>GPU: Intel Alder Lake 3.6GB</p>
     <p>RAM: 8GB DDR4 (3200MHz)<br>Storage: NVMe 512GB</p>
@@ -158,7 +159,8 @@
 
   <div class="node" id="node2">
     <h2>💪 Titan Node</h2>
-    <p>Role: Heavy workloads, Wake on LAN, cold backup</p>
+    <p>⭐ Backup\RDP\FTP\WEB\WM Server </p>
+    <p>Role: Heavy workloads, Wake on LAN, Dev base</p>
     <p>OS: Windows 10 Pro<br>CPU: Ryzen 9 16(32)core (5GHz)<br>GPU: Nvidia GTX 1070 TI 8Gb</p>
     <p>RAM: 64GB DDR4 (3200MHz)<br>Storage: NVMe 512GB\3TB RAID-1</p>
     <p class="codename PREDATOR">Code Name: PREDATOR</p>
@@ -166,7 +168,8 @@
 
   <div class="node" id="node3">
     <h2>📡 Pulse Node</h2>
-    <p>Role: Mobile access, RDP, gaming</p>
+    <p>⭐ RDP\FTP\WEB\FTP Client </p>
+    <p>Role: Mobile access,fast RDP, gaming</p>
     <p>OS: Android 14<br>CPU: Exynos + Snapdragon 3.4GHz<br>GPU: Mali-G710/Adreno VRAM 12GB</p>
     <p>RAM: 12GB LP-DDR5 (3200MHz)<br>Storage: UFS 256GB</p>
     <p class="codename VORTEX">Code Name: VORTEX</p>
@@ -174,16 +177,18 @@
 
   <div class="node" id="node4">
     <h2>💻 Gold Node</h2>
-    <p>Role: Web dev\design, portable use</p>
-    <p>OS: Linux Dracula<br>CPU: Ryzen 5 6(12)core (4.6GHz)<br>GPU: Radeon Graphics  2Gb</p>
+    <p>⭐ RDP\FTP\WEB\FTP Client </p>
+    <p>Role: Web dev\design, use all time and in portable mode</p>
+    <p>OS: Linux Dracula<br>CPU: Ryzen 5 6(12)core (4.6GHz)<br>GPU: Radeon Graphics  4Gb</p>
     <p>RAM: 16GB DDR4 (3200MHz)<br>Storage: NVMe 512GB</p>
     <p class="codename SENTINEL">Code Name: SENTINEL</p>
   </div>
 
   <div class="node" id="node5">
     <h2>⚓ Dock Node</h2>
-    <p>Role: Web dev\design, portable workstation</p>
-    <p>OS: Linux Dzen<br>CPU: Ryzen 5 6(12)core (4.6GHz)<br>GPU: Radeon Graphics 2Gb</p>
+    <p>⭐ RDP\FTP\WEB\FTP Client </p>
+    <p>Role: Web dev\design, portable workstation for others space</p>
+    <p>OS: Linux Dzen<br>CPU: Ryzen 5 6(12)core (4.6GHz)<br>GPU: Radeon Graphics 4Gb</p>
     <p>RAM: 16GB DDR4 (3200MHz)<br>Storage: NVMe 512GB</p>
     <p class="codename VALOR">Code Name: VALOR</p>
   </div>
